@@ -2,6 +2,10 @@
     font-family: 'yekan';
     src: url("../fonts/titr.ttf");
 }
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
 .header,.members{
     background-image: url("../images/foodie-factor-334983.jpg");
     background-size: cover;
